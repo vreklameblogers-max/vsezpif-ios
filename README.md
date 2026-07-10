@@ -1,8 +1,16 @@
 # Vsezpif iOS
 
+![Swift](https://img.shields.io/badge/Swift-5-orange)
+![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue)
+![Platform](https://img.shields.io/badge/iOS-17%2B-black)
+![Status](https://img.shields.io/badge/Status-Showcase-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **Premium SwiftUI showcase application for Russian real estate investment funds (ЗПИФ).**
 
 Native iOS companion to the [vsezpif web platform](https://github.com/vreklameblogers-max/Vsezpif) · Live web demo: [vsezpif.pages.dev](https://vsezpif.pages.dev)
+
+![Vsezpif iOS](Screenshots/hero.png)
 
 <p align="center">
   <img src="Screenshots/01-splash.png" width="240" alt="Splash">
