@@ -70,6 +70,13 @@ Requirements: Xcode 16+, iOS 17+ simulator.
 no app icon, no signing team, no privacy manifest. Planned next (visual-only iteration):
 app icon, launch screen, TestFlight build, demo video.
 
+## Related Projects
+
+| | |
+|---|---|
+| 🌐 Web Platform | https://github.com/vreklameblogers-max/Vsezpif |
+| 🔗 Live Demo | https://vsezpif.pages.dev |
+
 ## License
 
 [MIT](LICENSE)
